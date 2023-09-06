@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_9 finished">
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_1 finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +133,7 @@
       <updated>1693915056832</updated>
       <workItem from="1693915057891" duration="2713000" />
       <workItem from="1693980556232" duration="4081000" />
-      <workItem from="1693999318967" duration="297000" />
+      <workItem from="1693999318967" duration="3195000" />
     </task>
     <task id="LOCAL-00001" summary="add: task_3 finished">
       <option name="closed" value="true" />
@@ -215,7 +215,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693984612604</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add: practice 3 started">
+      <option name="closed" value="true" />
+      <created>1693999901875</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693999901875</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add: task_1 finished">
+      <option name="closed" value="true" />
+      <created>1693999910606</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693999910606</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,12 +241,13 @@
     <MESSAGE value="add: task_3 finished" />
     <MESSAGE value="add: task_6 finished" />
     <MESSAGE value="add: practice 2 started" />
-    <MESSAGE value="add: task_1 finished" />
     <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="add: task_5 finished" />
     <MESSAGE value="add: task_8 finished" />
     <MESSAGE value="add: task_10 finished" />
     <MESSAGE value="add: task_9 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_9 finished" />
+    <MESSAGE value="add: practice 3 started" />
+    <MESSAGE value="add: task_1 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_1 finished" />
   </component>
 </project>
