@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_5 finished" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_8 finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic_1/Task_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_1/Task_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic_1/Task_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_1/Task_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic_1/Task_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_1/Task_6/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +64,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Practice_2.Task_8.Main">
+  <component name="RunManager">
     <configuration name="DogKennel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_2.Task_5.DogKennel" />
       <module name="Java" />
@@ -74,11 +79,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practic_1.Task_3.Main" />
+      <option name="MAIN_CLASS_NAME" value="Practice_1.Task_3.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practic_1.Task_3.*" />
+          <option name="PATTERN" value="Practice_1.Task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,7 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693915056832</updated>
       <workItem from="1693915057891" duration="2713000" />
-      <workItem from="1693980556232" duration="3250000" />
+      <workItem from="1693980556232" duration="3551000" />
     </task>
     <task id="LOCAL-00001" summary="add: task_3 finished">
       <option name="closed" value="true" />
@@ -188,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693983472448</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add: task_8 finished">
+      <option name="closed" value="true" />
+      <created>1693983915798</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693983915798</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +214,7 @@
     <MESSAGE value="add: task_1 finished" />
     <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="add: task_5 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_5 finished" />
+    <MESSAGE value="add: task_8 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_8 finished" />
   </component>
 </project>
