@@ -14,35 +14,32 @@ public class Main {
         Computer computer;
 
         while (true) {
-            System.out.println("Введите 1 для того, чтобы добавить компьютер." +
-                    "\nВведите 2 для того, чтобы удалить компьютер." +
-                    "\nВведите 3 для того, чтобы найти компьютер по стоимости." +
-                    "\nВведите 4 для того, чтобы найти компьютер по имени." +
-                    "\nВведите 0 для того, чтобы выйти.");
+            System.out.println("""
+                    Введите 1 для того, чтобы добавить компьютер.
+                    Введите 2 для того, чтобы удалить компьютер.
+                    Введите 3 для того, чтобы найти компьютер по стоимости.
+                    Введите 4 для того, чтобы найти компьютер по имени.
+                    Введите 0 для того, чтобы выйти.""");
             if ((action = scanner.nextByte()) == 0) break;
 
             switch (action) {
-                case 1:
+                case 1 -> {
                     System.out.println("Введите название компьютера: ");
                     title = scanner.next();
-
                     System.out.println("Введите цену компьютера");
                     cost = scanner.nextInt();
-
                     shop.addComputer(title, cost);
                     System.out.println("Компьютер добавлен");
-                    break;
-                case 2:
+                }
+                case 2 -> {
                     System.out.println("Введите название компьютера: ");
                     title = scanner.next();
-
                     shop.deleteComputer(title);
                     System.out.println("Компьютер удалён");
-                    break;
-                case 3:
+                }
+                case 3 -> {
                     System.out.println("Введите цену компьютера");
                     cost = scanner.nextInt();
-
                     computer = shop.findComputerByCost(cost);
                     if (computer == null) System.out.println("Компьютер по установленной цене не найден");
                     else {
@@ -50,11 +47,10 @@ public class Main {
                                 "\nНазвание: " + computer.getTitle() +
                                 "\nЦена: " + computer.getCost());
                     }
-                    break;
-                case 4:
+                }
+                case 4 -> {
                     System.out.println("Введите название компьютера: ");
                     title = scanner.next();
-
                     computer = shop.findComputerByTitle(title);
                     if (computer == null) System.out.println("Компьютер по данному названию не найден");
                     else {
@@ -62,6 +58,7 @@ public class Main {
                                 "\nНазвание: " + computer.getTitle() +
                                 "\nЦена: " + computer.getCost());
                     }
+                }
             }
         }
     }
