@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_1 finished">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DogKennel">
     <configuration name="DogKennel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_2.Task_5.DogKennel" />
       <module name="Java" />
@@ -134,6 +135,7 @@
       <workItem from="1693915057891" duration="2713000" />
       <workItem from="1693980556232" duration="4081000" />
       <workItem from="1693999318967" duration="3195000" />
+      <workItem from="1694072356754" duration="77000" />
     </task>
     <task id="LOCAL-00001" summary="add: task_3 finished">
       <option name="closed" value="true" />
