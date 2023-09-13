@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_1 finished">
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_2 finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Phone">
+  <component name="RunManager" selected="Application.Matrix">
     <configuration name="DogKennel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_2.Task_5.DogKennel" />
       <module name="Java" />
@@ -75,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_1.Task_3.Main" />
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_4_1.Task_4.Matrix" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_1.Task_3.*" />
+          <option name="PATTERN" value="Practice_4_1.Task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Matrix" />
         <item itemvalue="Application.Phone" />
         <item itemvalue="Application.DogKennel" />
         <item itemvalue="Application.Practice_2.Task_8.Main" />
         <item itemvalue="Application.Practice_2.Task_4.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,8 @@
       <workItem from="1693980556232" duration="4081000" />
       <workItem from="1693999318967" duration="3195000" />
       <workItem from="1694072356754" duration="77000" />
-      <workItem from="1694544573719" duration="1134000" />
+      <workItem from="1694544573719" duration="1529000" />
+      <workItem from="1694601460259" duration="780000" />
     </task>
     <task id="LOCAL-00001" summary="add: task_3 finished">
       <option name="closed" value="true" />
@@ -247,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693999910606</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add: task_2 finished">
+      <option name="closed" value="true" />
+      <created>1694546013293</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694546013293</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +273,7 @@
     <MESSAGE value="add: task_9 finished" />
     <MESSAGE value="add: practice 3 started" />
     <MESSAGE value="add: task_1 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_1 finished" />
+    <MESSAGE value="add: task_2 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_2 finished" />
   </component>
 </project>
