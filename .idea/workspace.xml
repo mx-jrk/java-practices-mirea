@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_2 finished">
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_4 finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +61,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Matrix">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DogKennel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_2.Task_5.DogKennel" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice_2.Task_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_4_1.Task_10.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_4_1.Task_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,19 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_2.Task_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_2.Task_4.Main" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice_2.Task_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Practice_2.Task_8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_2.Task_8.Main" />
       <module name="Java" />
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Matrix" />
         <item itemvalue="Application.Phone" />
         <item itemvalue="Application.DogKennel" />
         <item itemvalue="Application.Practice_2.Task_8.Main" />
-        <item itemvalue="Application.Practice_2.Task_4.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,8 @@
       <workItem from="1693999318967" duration="3195000" />
       <workItem from="1694072356754" duration="77000" />
       <workItem from="1694544573719" duration="1529000" />
-      <workItem from="1694601460259" duration="780000" />
+      <workItem from="1694601460259" duration="1201000" />
+      <workItem from="1694784884681" duration="1174000" />
     </task>
     <task id="LOCAL-00001" summary="add: task_3 finished">
       <option name="closed" value="true" />
@@ -256,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694546013293</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add: task_4 finished">
+      <option name="closed" value="true" />
+      <created>1694602365884</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694602365884</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +275,6 @@
     <MESSAGE value="add: task_3 finished" />
     <MESSAGE value="add: task_6 finished" />
     <MESSAGE value="add: practice 2 started" />
-    <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="add: task_5 finished" />
     <MESSAGE value="add: task_8 finished" />
     <MESSAGE value="add: task_10 finished" />
@@ -274,6 +282,7 @@
     <MESSAGE value="add: practice 3 started" />
     <MESSAGE value="add: task_1 finished" />
     <MESSAGE value="add: task_2 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_2 finished" />
+    <MESSAGE value="add: task_4 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_4 finished" />
   </component>
 </project>
