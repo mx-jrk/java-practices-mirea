@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_10 finished" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: practice 5 started">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,13 +61,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DogKennel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_2.Task_5.DogKennel" />
+  <component name="RunManager" selected="Application.ShapesDrawing">
+    <configuration name="Football" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_5.Task_1.Football" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_2.Task_5.*" />
+          <option name="PATTERN" value="Practice_5.Task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_2.Task_8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_2.Task_8.Main" />
+    <configuration name="ShapesDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_5.Task_2.ShapesDrawing" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_2.Task_8.*" />
+          <option name="PATTERN" value="Practice_5.Task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapesDrawing" />
+        <item itemvalue="Application.Football" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Matrix" />
         <item itemvalue="Application.Phone" />
-        <item itemvalue="Application.DogKennel" />
-        <item itemvalue="Application.Practice_2.Task_8.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +152,7 @@
       <workItem from="1694544573719" duration="1529000" />
       <workItem from="1694601460259" duration="1201000" />
       <workItem from="1694784884681" duration="1911000" />
+      <workItem from="1694962233394" duration="2314000" />
     </task>
     <task id="LOCAL-00001" summary="add: task_3 finished">
       <option name="closed" value="true" />
@@ -271,11 +274,30 @@
       <option name="project" value="LOCAL" />
       <updated>1694786249625</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add: practice 5 started">
+      <option name="closed" value="true" />
+      <created>1694962351403</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1694962351403</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add: task_3 finished" />
@@ -289,6 +311,7 @@
     <MESSAGE value="add: task_2 finished" />
     <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="add: task_10 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_10 finished" />
+    <MESSAGE value="add: practice 5 started" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: practice 5 started" />
   </component>
 </project>
