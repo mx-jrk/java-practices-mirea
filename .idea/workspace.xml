@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_2 finished">
-      <change afterPath="$PROJECT_DIR$/src/Practice_5/Task_3/ImageDrawing.java" afterDir="false" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_3 finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +61,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ImageDrawing">
+  <component name="RunManager" selected="Application.ImageAnimationDrawing">
     <configuration name="Football" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_5.Task_1.Football" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice_5.Task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageAnimationDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_5.Task_4.ImageAnimationDrawing" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_5.Task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,19 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_4_1.Task_4.Matrix" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice_4_1.Task_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ShapesDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_5.Task_2.ShapesDrawing" />
       <module name="Java" />
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImageAnimationDrawing" />
         <item itemvalue="Application.ImageDrawing" />
         <item itemvalue="Application.ShapesDrawing" />
         <item itemvalue="Application.Football" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,7 @@
       <workItem from="1694544573719" duration="1529000" />
       <workItem from="1694601460259" duration="1201000" />
       <workItem from="1694784884681" duration="1911000" />
-      <workItem from="1694962233394" duration="2645000" />
+      <workItem from="1694962233394" duration="3373000" />
     </task>
     <task id="LOCAL-00001" summary="add: task_3 finished">
       <option name="closed" value="true" />
@@ -298,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694964779305</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add: task_3 finished">
+      <option name="closed" value="true" />
+      <created>1694965082594</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1694965082594</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +324,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add: task_3 finished" />
     <MESSAGE value="add: task_6 finished" />
     <MESSAGE value="add: practice 2 started" />
     <MESSAGE value="add: task_5 finished" />
@@ -328,6 +335,7 @@
     <MESSAGE value="add: practice 5 started" />
     <MESSAGE value="add: task_1 finished" />
     <MESSAGE value="add: task_2 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_2 finished" />
+    <MESSAGE value="add: task_3 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_3 finished" />
   </component>
 </project>
