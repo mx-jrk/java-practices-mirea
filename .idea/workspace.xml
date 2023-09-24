@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_11 finished">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_12 finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +60,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumberOfOddNumbers">
+  <component name="RunManager" selected="Application.Student">
     <configuration name="NumberOfOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_8.Task_12.NumberOfOddNumbers" />
       <module name="Java" />
@@ -89,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_6.Task_10.Shop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_6.Task_10.Shop" />
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_8.Task_10.ReverseNumber" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_6.Task_10.*" />
+          <option name="PATTERN" value="Practice_8.Task_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_8.Task_10.ReverseNumber" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_9.Task_1.Student" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_8.Task_10.*" />
+          <option name="PATTERN" value="Practice_9.Task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.NumberOfOddNumbers" />
         <item itemvalue="Application.NumberOfOne" />
         <item itemvalue="Application.ReverseNumber" />
         <item itemvalue="Application.TemperatureConverter" />
-        <item itemvalue="Application.Practice_6.Task_10.Shop" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +154,7 @@
       <workItem from="1694962233394" duration="4184000" />
       <workItem from="1694978142318" duration="87000" />
       <workItem from="1695017961773" duration="1760000" />
-      <workItem from="1695558331759" duration="7943000" />
+      <workItem from="1695558331759" duration="8670000" />
     </task>
     <task id="LOCAL-00001" summary="add: task_3 finished">
       <option name="closed" value="true" />
@@ -430,7 +428,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695566505756</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="add: task_12 finished">
+      <option name="closed" value="true" />
+      <created>1695567730720</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1695567730720</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,6 +473,7 @@
     <MESSAGE value="add: practice 8 started" />
     <MESSAGE value="add: task_10 finished" />
     <MESSAGE value="add: task_11 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_11 finished" />
+    <MESSAGE value="add: task_12 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_12 finished" />
   </component>
 </project>
