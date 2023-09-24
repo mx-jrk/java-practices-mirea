@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_12 finished" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_1 finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +60,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Student">
+  <component name="RunManager" selected="Application.SortingStudentsByGPA">
     <configuration name="NumberOfOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_8.Task_12.NumberOfOddNumbers" />
       <module name="Java" />
@@ -100,6 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortingStudentsByGPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_9.Task_2.SortingStudentsByGPA" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_9.Task_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_9.Task_1.Student" />
       <module name="Java" />
@@ -113,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_6.Task_11.TemperatureConverter" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice_6.Task_11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortingStudentsByGPA" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.NumberOfOddNumbers" />
         <item itemvalue="Application.NumberOfOne" />
         <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.TemperatureConverter" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,7 @@
       <workItem from="1694962233394" duration="4184000" />
       <workItem from="1694978142318" duration="87000" />
       <workItem from="1695017961773" duration="1760000" />
-      <workItem from="1695558331759" duration="8670000" />
+      <workItem from="1695558331759" duration="9080000" />
     </task>
     <task id="LOCAL-00001" summary="add: task_3 finished">
       <option name="closed" value="true" />
@@ -436,7 +436,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695567730720</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="add: practice 9 started">
+      <option name="closed" value="true" />
+      <created>1695575813362</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1695575813362</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add: task_1 finished">
+      <option name="closed" value="true" />
+      <created>1695575821041</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1695575821041</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,7 +479,6 @@
     <MESSAGE value="add: task_2 finished" />
     <MESSAGE value="add: task_8 in practice 4.1 finished" />
     <MESSAGE value="add: practice 6 started" />
-    <MESSAGE value="add: task_1 finished" />
     <MESSAGE value="add: task_6 - task_9 finished" />
     <MESSAGE value="fix: package name of practice 6" />
     <MESSAGE value="add: practice 7 started" />
@@ -474,6 +489,8 @@
     <MESSAGE value="add: task_10 finished" />
     <MESSAGE value="add: task_11 finished" />
     <MESSAGE value="add: task_12 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_12 finished" />
+    <MESSAGE value="add: practice 9 started" />
+    <MESSAGE value="add: task_1 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_1 finished" />
   </component>
 </project>

@@ -6,9 +6,16 @@ public class Student {
     private int iDNumber;
     private String name;
 
-    public Student(int iDNumber, String name) {
+    private int GPA;
+
+    public Student(int iDNumber, String name, int GPA) {
         this.iDNumber = iDNumber;
         this.name = name;
+        this.GPA = GPA;
+    }
+
+    public int getGPA() {
+        return GPA;
     }
 
     public int getIDNumber() {
@@ -37,9 +44,9 @@ public class Student {
 
     public static void main(String[] args) {
         Student[] students = {
-                new Student(3, "Alice"),
-                new Student(1, "Bob"),
-                new Student(2, "Charlie"),
+                new Student(3, "Alice", 5),
+                new Student(1, "Bob", 3),
+                new Student(2, "Charlie", 4),
         };
 
         for (Student student : students) {
