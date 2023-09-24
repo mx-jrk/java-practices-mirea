@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_2 finished" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_4 finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_9/Task_3/MergeStudentsLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_9/Task_3/MergeStudentsLists.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +63,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MergeStudentsLists">
+  <component name="RunManager" selected="Application.Practice_10.Task_1to3.SortingStudentsByGPA">
     <configuration name="MergeStudentsLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_9.Task_3.MergeStudentsLists" />
       <module name="Java" />
@@ -74,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_8.Task_12.NumberOfOddNumbers" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_9.Task_4.Person" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_8.Task_12.*" />
+          <option name="PATTERN" value="Practice_9.Task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_8.Task_11.NumberOfOne" />
+    <configuration name="Practice_10.Task_1to3.SortingStudentsByGPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_10.Task_1to3.SortingStudentsByGPA" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_8.Task_11.*" />
+          <option name="PATTERN" value="Practice_10.Task_1to3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice_10.Task_1to3.SortingStudentsByGPA" />
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.MergeStudentsLists" />
         <item itemvalue="Application.SortingStudentsByGPA" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.NumberOfOddNumbers" />
-        <item itemvalue="Application.NumberOfOne" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +157,7 @@
       <workItem from="1694962233394" duration="4184000" />
       <workItem from="1694978142318" duration="87000" />
       <workItem from="1695017961773" duration="1760000" />
-      <workItem from="1695558331759" duration="9420000" />
+      <workItem from="1695558331759" duration="11329000" />
     </task>
     <task id="LOCAL-00001" summary="add: task_3 finished">
       <option name="closed" value="true" />
@@ -460,7 +463,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695576062269</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="add: task_3 finished">
+      <option name="closed" value="true" />
+      <created>1695576237509</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1695576237509</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add: task_4 finished">
+      <option name="closed" value="true" />
+      <created>1695576520309</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1695576520309</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -489,8 +508,6 @@
     <MESSAGE value="add: task_6 - task_9 finished" />
     <MESSAGE value="fix: package name of practice 6" />
     <MESSAGE value="add: practice 7 started" />
-    <MESSAGE value="add: task_3 finished" />
-    <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="add: task_5 finished" />
     <MESSAGE value="add: practice 8 started" />
     <MESSAGE value="add: task_10 finished" />
@@ -499,6 +516,8 @@
     <MESSAGE value="add: practice 9 started" />
     <MESSAGE value="add: task_1 finished" />
     <MESSAGE value="add: task_2 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_2 finished" />
+    <MESSAGE value="add: task_3 finished" />
+    <MESSAGE value="add: task_4 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_4 finished" />
   </component>
 </project>

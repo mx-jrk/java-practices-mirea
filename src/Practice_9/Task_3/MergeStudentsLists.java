@@ -18,7 +18,6 @@ public class MergeStudentsLists {
             Student student1 = list1.get(i);
             Student student2 = list2.get(j);
 
-            // Сравниваем студентов по итоговым баллам
             if (student1.getGPA() > student2.getGPA()) {
                 mergedList.add(student1);
                 i++;
