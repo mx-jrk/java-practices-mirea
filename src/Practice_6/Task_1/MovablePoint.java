@@ -1,4 +1,4 @@
-package Pratice_6.Task_1;
+package Practice_6.Task_1;
 
 public class MovablePoint implements Movable{
     protected int x;

@@ -1,4 +1,4 @@
-package Pratice_6.Task_10;
+package Practice_6.Task_10;
 
 public interface ShopTools {
     void findComputerByModel(String model);

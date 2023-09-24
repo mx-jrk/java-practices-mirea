@@ -1,4 +1,4 @@
-package Pratice_6.Task_10;
+package Practice_6.Task_10;
 
 public class Monitor {
     private final String title;

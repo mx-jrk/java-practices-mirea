@@ -1,4 +1,4 @@
-package Pratice_6.Task_1;
+package Practice_6.Task_1;
 
 public class MovableCircle implements Movable{
     private int radius;

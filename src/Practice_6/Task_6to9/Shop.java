@@ -1,4 +1,4 @@
-package Pratice_6.Task_6to9;
+package Practice_6.Task_6to9;
 
 import java.util.ArrayList;
 import java.util.List;

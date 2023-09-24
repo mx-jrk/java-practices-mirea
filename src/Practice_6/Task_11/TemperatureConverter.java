@@ -1,4 +1,4 @@
-package Pratice_6.Task_11;
+package Practice_6.Task_11;
 
 public  class TemperatureConverter implements Convertable{
 
