@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: practice 6 started">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_1 finished">
+      <change beforePath="$PROJECT_DIR$/src/Pratice_6/Task_6to11/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pratice_6/Task_6to11/Shop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,20 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MovableCircle">
-    <configuration name="Football" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_5.Task_1.Football" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice_5.Task_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Shop">
     <configuration name="ImageAnimationDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_5.Task_4.ImageAnimationDrawing" />
       <module name="Java" />
@@ -128,13 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Shop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratice_6.Task_6to11.Shop" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pratice_6.Task_6to11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shop" />
         <item itemvalue="Application.MovableCircle" />
         <item itemvalue="Application.ImageAnimationDrawing" />
         <item itemvalue="Application.ImageDrawing" />
         <item itemvalue="Application.ShapesDrawing" />
-        <item itemvalue="Application.Football" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,7 @@
       <workItem from="1694962233394" duration="4184000" />
       <workItem from="1694978142318" duration="87000" />
       <workItem from="1695017961773" duration="1760000" />
-      <workItem from="1695558331759" duration="1147000" />
+      <workItem from="1695558331759" duration="1468000" />
     </task>
     <task id="LOCAL-00001" summary="add: task_3 finished">
       <option name="closed" value="true" />
@@ -334,7 +334,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695558411419</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add: task_1 finished">
+      <option name="closed" value="true" />
+      <created>1695559540513</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1695559540513</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,12 +368,12 @@
     <MESSAGE value="add: practice 3 started" />
     <MESSAGE value="add: task_10 finished" />
     <MESSAGE value="add: practice 5 started" />
-    <MESSAGE value="add: task_1 finished" />
     <MESSAGE value="add: task_2 finished" />
     <MESSAGE value="add: task_3 finished" />
     <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="add: task_8 in practice 4.1 finished" />
     <MESSAGE value="add: practice 6 started" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: practice 6 started" />
+    <MESSAGE value="add: task_1 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_1 finished" />
   </component>
 </project>
