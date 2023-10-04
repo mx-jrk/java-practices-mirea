@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_3 finished" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_4 finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +61,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DateCalendarObjects">
+  <component name="RunManager" selected="Application.ArrayVsLinked">
+    <configuration name="ArrayVsLinked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_11.Task_5.ArrayVsLinked" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_11.Task_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DateCalendarObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_11.Task_4.DateCalendarObjects" />
       <module name="Java" />
@@ -101,19 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingStudentsByGPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_10.Task_1to3.SortingStudentsByGPA" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice_10.Task_1to3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_11.Task_3.Student" />
       <module name="Java" />
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayVsLinked" />
         <item itemvalue="Application.DateCalendarObjects" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.DateComparator" />
         <item itemvalue="Application.DeveloperTaskTime" />
-        <item itemvalue="Application.SortingStudentsByGPA" />
       </list>
     </recent_temporary>
   </component>
@@ -519,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696420137574</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="add: task_4 finished">
+      <option name="closed" value="true" />
+      <created>1696421055965</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1696421055965</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,12 +562,12 @@
     <MESSAGE value="add: task_11 finished" />
     <MESSAGE value="add: task_12 finished" />
     <MESSAGE value="add: practice 9 started" />
-    <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="add: task_1 - task_4 finished" />
     <MESSAGE value="add: practice 11 started" />
     <MESSAGE value="add: task_1 finished" />
     <MESSAGE value="add: task_2 finished" />
     <MESSAGE value="add: task_3 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_3 finished" />
+    <MESSAGE value="add: task_4 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_4 finished" />
   </component>
 </project>
