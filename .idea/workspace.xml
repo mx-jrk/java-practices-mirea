@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_4 finished">
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_1 - task_4 finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_9/Task_3/MergeStudentsLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_9/Task_3/MergeStudentsLists.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,27 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Practice_10.Task_1to3.SortingStudentsByGPA">
-    <configuration name="MergeStudentsLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_9.Task_3.MergeStudentsLists" />
+}]]></component>
+  <component name="RunManager" selected="Application.SortingStudentsByGPA">
+    <configuration name="NumberOfOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_8.Task_12.NumberOfOddNumbers" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_9.Task_3.*" />
+          <option name="PATTERN" value="Practice_8.Task_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_9.Task_4.Person" />
+    <configuration name="NumberOfOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_8.Task_11.NumberOfOne" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_9.Task_4.*" />
+          <option name="PATTERN" value="Practice_8.Task_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,7 +90,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_10.Task_1to3.SortingStudentsByGPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_8.Task_10.ReverseNumber" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_8.Task_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingStudentsByGPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_10.Task_1to3.SortingStudentsByGPA" />
       <module name="Java" />
       <extension name="coverage">
@@ -103,25 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingStudentsByGPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_9.Task_2.SortingStudentsByGPA" />
+    <configuration name="StringManipulatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_7.Task_5.StringManipulatorTest" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_9.Task_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_9.Task_1.Student" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice_9.Task_1.*" />
+          <option name="PATTERN" value="Practice_7.Task_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice_10.Task_1to3.SortingStudentsByGPA" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.MergeStudentsLists" />
         <item itemvalue="Application.SortingStudentsByGPA" />
-        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.NumberOfOddNumbers" />
+        <item itemvalue="Application.NumberOfOne" />
+        <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.StringManipulatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +157,9 @@
       <workItem from="1694962233394" duration="4184000" />
       <workItem from="1694978142318" duration="87000" />
       <workItem from="1695017961773" duration="1760000" />
-      <workItem from="1695558331759" duration="11329000" />
+      <workItem from="1695558331759" duration="11648000" />
+      <workItem from="1695621992876" duration="2478000" />
+      <workItem from="1696417162272" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="add: task_3 finished">
       <option name="closed" value="true" />
@@ -479,7 +481,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695576520309</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="add: task_1 - task_4 finished">
+      <option name="closed" value="true" />
+      <created>1695578414085</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1695578414085</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,6 +528,7 @@
     <MESSAGE value="add: task_2 finished" />
     <MESSAGE value="add: task_3 finished" />
     <MESSAGE value="add: task_4 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_4 finished" />
+    <MESSAGE value="add: task_1 - task_4 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_1 - task_4 finished" />
   </component>
 </project>
