@@ -1,7 +1,5 @@
 package Practice_11.Task_2;
 
-import Practice_11.Task_1.DeveloperTaskTime;
-
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;

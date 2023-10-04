@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_1 finished" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_2 finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_11/Task_2/DateComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_11/Task_2/DateComparator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +64,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DateComparator">
+  <component name="RunManager" selected="Application.Student">
     <configuration name="DateComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_11.Task_2.DateComparator" />
       <module name="Java" />
@@ -101,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_8.Task_11.NumberOfOne" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice_8.Task_11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SortingStudentsByGPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_10.Task_1to3.SortingStudentsByGPA" />
       <module name="Java" />
@@ -127,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_11.Task_3.Student" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_11.Task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Student" />
         <item itemvalue="Application.DateComparator" />
         <item itemvalue="Application.DeveloperTaskTime" />
         <item itemvalue="Application.SortingStudentsByGPA" />
         <item itemvalue="Application.NumberOfOddNumbers" />
-        <item itemvalue="Application.NumberOfOne" />
       </list>
     </recent_temporary>
   </component>
@@ -503,7 +506,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696418835971</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="add: task_2 finished">
+      <option name="closed" value="true" />
+      <created>1696419218560</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1696419218560</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,12 +549,12 @@
     <MESSAGE value="add: task_11 finished" />
     <MESSAGE value="add: task_12 finished" />
     <MESSAGE value="add: practice 9 started" />
-    <MESSAGE value="add: task_2 finished" />
     <MESSAGE value="add: task_3 finished" />
     <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="add: task_1 - task_4 finished" />
     <MESSAGE value="add: practice 11 started" />
     <MESSAGE value="add: task_1 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_1 finished" />
+    <MESSAGE value="add: task_2 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_2 finished" />
   </component>
 </project>
