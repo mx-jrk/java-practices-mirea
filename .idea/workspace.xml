@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_4 finished" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_5 finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -527,7 +529,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696421055965</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="add: task_5 finished">
+      <option name="closed" value="true" />
+      <created>1696421289352</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1696421289352</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +566,6 @@
     <MESSAGE value="add: task_6 - task_9 finished" />
     <MESSAGE value="fix: package name of practice 6" />
     <MESSAGE value="add: practice 7 started" />
-    <MESSAGE value="add: task_5 finished" />
     <MESSAGE value="add: practice 8 started" />
     <MESSAGE value="add: task_10 finished" />
     <MESSAGE value="add: task_11 finished" />
@@ -568,6 +577,7 @@
     <MESSAGE value="add: task_2 finished" />
     <MESSAGE value="add: task_3 finished" />
     <MESSAGE value="add: task_4 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_4 finished" />
+    <MESSAGE value="add: task_5 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_5 finished" />
   </component>
 </project>
