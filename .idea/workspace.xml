@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: practice 12 started" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_3 finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +63,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Animation">
+  <component name="RunManager" selected="Application.StringOperations">
     <configuration name="Animation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_12.Task_3.Animation" />
       <module name="Java" />
@@ -101,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_11.Task_2.DateComparator" />
+    <configuration name="StringOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_13.Task_1.StringOperations" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_11.Task_2.*" />
+          <option name="PATTERN" value="Practice_13.Task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringOperations" />
         <item itemvalue="Application.Animation" />
         <item itemvalue="Application.ArrayVsLinked" />
         <item itemvalue="Application.DateCalendarObjects" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.DateComparator" />
       </list>
     </recent_temporary>
   </component>
@@ -543,7 +545,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696860990688</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="add: task_3 finished">
+      <option name="closed" value="true" />
+      <created>1696861469829</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1696861469829</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,10 +591,10 @@
     <MESSAGE value="add: practice 11 started" />
     <MESSAGE value="add: task_1 finished" />
     <MESSAGE value="add: task_2 finished" />
-    <MESSAGE value="add: task_3 finished" />
     <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="add: task_5 finished" />
     <MESSAGE value="add: practice 12 started" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: practice 12 started" />
+    <MESSAGE value="add: task_3 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_3 finished" />
   </component>
 </project>
