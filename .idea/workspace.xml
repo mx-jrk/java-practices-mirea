@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_4 finished" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: practice 14 started">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,20 +63,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Shirt">
-    <configuration name="Animation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_12.Task_3.Animation" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice_12.Task_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RegexStringSplitter">
     <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_13.Task_2.Person" />
       <module name="Java" />
@@ -94,6 +83,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice_13.Task_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegexStringSplitter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_14.Task_1.RegexStringSplitter" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_14.Task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RegexStringSplitter" />
         <item itemvalue="Application.Shirt" />
         <item itemvalue="Application.PhoneNumber" />
         <item itemvalue="Application.StringOperations" />
         <item itemvalue="Application.Person" />
-        <item itemvalue="Application.Animation" />
       </list>
     </recent_temporary>
   </component>
@@ -158,14 +160,6 @@
       <workItem from="1695558331759" duration="11648000" />
       <workItem from="1695621992876" duration="2478000" />
       <workItem from="1696417162272" duration="8000" />
-    </task>
-    <task id="LOCAL-00006" summary="add: task_4 finished">
-      <option name="closed" value="true" />
-      <created>1693982714489</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1693982714489</updated>
     </task>
     <task id="LOCAL-00007" summary="add: task_5 finished">
       <option name="closed" value="true" />
@@ -551,7 +545,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696866053449</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="add: practice 14 started">
+      <option name="closed" value="true" />
+      <created>1696874047204</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1696874047205</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add: task_6 finished" />
     <MESSAGE value="add: practice 2 started" />
     <MESSAGE value="add: task_8 finished" />
     <MESSAGE value="add: task_9 finished" />
@@ -594,6 +595,7 @@
     <MESSAGE value="add: task_2 finished" />
     <MESSAGE value="add: task_5 finished" />
     <MESSAGE value="add: task_4 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_4 finished" />
+    <MESSAGE value="add: practice 14 started" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: practice 14 started" />
   </component>
 </project>
