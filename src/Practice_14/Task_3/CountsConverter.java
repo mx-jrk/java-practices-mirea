@@ -1,4 +1,4 @@
-package Practice_14;
+package Practice_14.Task_3;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
