@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: practice 14 started">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_5 finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +61,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_5" />
+      <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_4" />
+      <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_3" />
+      <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_1" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.CheckString">
     <configuration name="CheckString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_14.Task_2.CheckString" />
@@ -160,46 +166,6 @@
       <workItem from="1695558331759" duration="11648000" />
       <workItem from="1695621992876" duration="2478000" />
       <workItem from="1696417162272" duration="8000" />
-    </task>
-    <task id="LOCAL-00007" summary="add: task_5 finished">
-      <option name="closed" value="true" />
-      <created>1693983472448</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1693983472448</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add: task_8 finished">
-      <option name="closed" value="true" />
-      <created>1693983915798</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1693983915798</updated>
-    </task>
-    <task id="LOCAL-00009" summary="add: task_10 finished">
-      <option name="closed" value="true" />
-      <created>1693984354133</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1693984354133</updated>
-    </task>
-    <task id="LOCAL-00010" summary="add: task_9 finished">
-      <option name="closed" value="true" />
-      <created>1693984612604</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1693984612604</updated>
-    </task>
-    <task id="LOCAL-00011" summary="add: practice 3 started">
-      <option name="closed" value="true" />
-      <created>1693999901875</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1693999901875</updated>
     </task>
     <task id="LOCAL-00012" summary="add: task_1 finished">
       <option name="closed" value="true" />
@@ -553,7 +519,47 @@
       <option name="project" value="LOCAL" />
       <updated>1696874047205</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="add: task_2 finished">
+      <option name="closed" value="true" />
+      <created>1696966410690</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1696966410691</updated>
+    </task>
+    <task id="LOCAL-00057" summary="add: task_3 finished">
+      <option name="closed" value="true" />
+      <created>1696966478826</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1696966478826</updated>
+    </task>
+    <task id="LOCAL-00058" summary="add: task_4 finished">
+      <option name="closed" value="true" />
+      <created>1696966543138</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1696966543138</updated>
+    </task>
+    <task id="LOCAL-00059" summary="fix: package">
+      <option name="closed" value="true" />
+      <created>1696966550906</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1696966550906</updated>
+    </task>
+    <task id="LOCAL-00060" summary="add: task_5 finished">
+      <option name="closed" value="true" />
+      <created>1696966637284</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1696966637284</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,7 +577,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add: practice 2 started" />
     <MESSAGE value="add: task_8 finished" />
     <MESSAGE value="add: task_9 finished" />
     <MESSAGE value="add: practice 3 started" />
@@ -589,13 +594,14 @@
     <MESSAGE value="add: task_1 - task_4 finished" />
     <MESSAGE value="add: practice 11 started" />
     <MESSAGE value="add: practice 12 started" />
-    <MESSAGE value="add: task_3 finished" />
     <MESSAGE value="add: practice 13 started" />
     <MESSAGE value="add: task_1 finished" />
-    <MESSAGE value="add: task_2 finished" />
-    <MESSAGE value="add: task_5 finished" />
-    <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="add: practice 14 started" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: practice 14 started" />
+    <MESSAGE value="add: task_2 finished" />
+    <MESSAGE value="add: task_3 finished" />
+    <MESSAGE value="add: task_4 finished" />
+    <MESSAGE value="fix: package" />
+    <MESSAGE value="add: task_5 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_5 finished" />
   </component>
 </project>
