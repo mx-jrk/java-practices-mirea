@@ -63,7 +63,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RegexStringSplitter">
+  <component name="RunManager" selected="Application.CheckString">
+    <configuration name="CheckString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_14.Task_2.CheckString" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_14.Task_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_13.Task_2.Person" />
       <module name="Java" />
@@ -83,19 +96,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice_13.Task_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RegexStringSplitter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_14.Task_1.RegexStringSplitter" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice_14.Task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,7 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RegexStringSplitter" />
+        <item itemvalue="Application.CheckString" />
         <item itemvalue="Application.Shirt" />
         <item itemvalue="Application.PhoneNumber" />
         <item itemvalue="Application.StringOperations" />
