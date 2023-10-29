@@ -12,6 +12,14 @@ public class CountsConverter {
         String regexUSD = "\\b(\\d+\\.\\d{1,2}) USD\\b";
         String regexRUB = "\\b(\\d+\\.\\d{1,2}) RUB\\b";
         String regexEU = "\\b(\\d+\\.\\d{1,2}) EU\\b";
+        /*
+        \\b - это граница слова, она используется, чтобы обеспечить точное совпадение цены
+         и избежать совпадений с другими словами.
+        (\\d+\\.\\d{1,2}) - это группа, которая соответствует десятичной цене в формате X.XX,
+         где \\d+ соответствует одной или более цифрам, \\. соответствует точке,
+          а \\d{1,2} соответствует одной или двум десятичным цифрам.
+        USD, RUB и EU - соответствуют буквенным обозначениям валют.
+         */
         Pattern patternUSD = Pattern.compile(regexUSD);
         Pattern patternRUB = Pattern.compile(regexRUB);
         Pattern patternEU = Pattern.compile(regexEU);

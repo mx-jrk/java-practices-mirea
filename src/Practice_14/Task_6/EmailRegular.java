@@ -17,8 +17,15 @@ public class EmailRegular {
     }
 
     public static boolean isValidEmail(String email) {
-        //String regex = "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$";
         String regex = "^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+$";
+        /*
+        ^[A-Za-z0-9+_.-]+ соответствует локальной части адреса,
+        где допустимы буквы в верхнем и нижнем регистре, цифры, и символы "+", ".", "_", и "-".
+        @ - соответствует символу "@".
+        [A-Za-z0-9.-]+ соответствует доменной части адреса,
+        где также допустимы буквы в верхнем и нижнем регистре, цифры, и символы ".", и "-".
+        $ - обозначает конец строки.
+         */
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(email);
         return matcher.matches();

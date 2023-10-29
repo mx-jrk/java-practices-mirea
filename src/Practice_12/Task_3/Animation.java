@@ -51,7 +51,7 @@ public class Animation {
             }
         });
 
-        timer.start(); // Запустим таймер
+        timer.start();
 
         frame.setVisible(true);
     }

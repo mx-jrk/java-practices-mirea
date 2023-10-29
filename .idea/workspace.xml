@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_5 finished" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: practice 15 started">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_12/Task_3/Animation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_12/Task_3/Animation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_14/Task_3/CountsConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_14/Task_3/CountsConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice_14/Task_6/EmailRegular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_14/Task_6/EmailRegular.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,13 +68,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_6" />
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_5" />
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_4" />
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_3" />
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckString">
+  <component name="RunManager" selected="Application.PhoneNumber">
     <configuration name="CheckString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_14.Task_2.CheckString" />
       <module name="Java" />
@@ -83,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_13.Task_2.Person" />
+    <configuration name="CountsConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_14.Task_3.CountsConverter" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_13.Task_2.*" />
+          <option name="PATTERN" value="Practice_14.Task_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,6 +115,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PlusChecking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_14.Task_4.PlusChecking" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_14.Task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Shirt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_13.Task_4.Shirt" />
       <module name="Java" />
@@ -122,26 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_13.Task_1.StringOperations" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice_13.Task_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneNumber" />
+        <item itemvalue="Application.CountsConverter" />
+        <item itemvalue="Application.PlusChecking" />
         <item itemvalue="Application.CheckString" />
         <item itemvalue="Application.Shirt" />
-        <item itemvalue="Application.PhoneNumber" />
-        <item itemvalue="Application.StringOperations" />
-        <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
   </component>
@@ -166,22 +172,6 @@
       <workItem from="1695558331759" duration="11648000" />
       <workItem from="1695621992876" duration="2478000" />
       <workItem from="1696417162272" duration="8000" />
-    </task>
-    <task id="LOCAL-00012" summary="add: task_1 finished">
-      <option name="closed" value="true" />
-      <created>1693999910606</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1693999910606</updated>
-    </task>
-    <task id="LOCAL-00013" summary="add: task_2 finished">
-      <option name="closed" value="true" />
-      <created>1694546013293</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1694546013293</updated>
     </task>
     <task id="LOCAL-00014" summary="add: task_4 finished">
       <option name="closed" value="true" />
@@ -559,7 +549,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696966637284</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="add: task_6 finished">
+      <option name="closed" value="true" />
+      <created>1696966694058</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1696966694058</updated>
+    </task>
+    <task id="LOCAL-00062" summary="add: practice 15 started">
+      <option name="closed" value="true" />
+      <created>1696966717329</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1696966717329</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,8 +583,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add: task_8 finished" />
-    <MESSAGE value="add: task_9 finished" />
     <MESSAGE value="add: practice 3 started" />
     <MESSAGE value="add: practice 5 started" />
     <MESSAGE value="add: task_8 in practice 4.1 finished" />
@@ -602,6 +606,8 @@
     <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="fix: package" />
     <MESSAGE value="add: task_5 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_5 finished" />
+    <MESSAGE value="add: task_6 finished" />
+    <MESSAGE value="add: practice 15 started" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: practice 15 started" />
   </component>
 </project>
