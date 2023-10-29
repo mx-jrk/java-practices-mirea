@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: practice 15 started">
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_12/Task_3/Animation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_12/Task_3/Animation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_14/Task_3/CountsConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_14/Task_3/CountsConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_14/Task_6/EmailRegular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_14/Task_6/EmailRegular.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +32,7 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="426236c9-69e0-4c35-bd41-eedadf2e6038" />
+        <option name="accountId" value="2e881dac-3d87-4883-b6f4-d0548c229bbf" />
         <option name="url" value="https://github.com/mx-jrk/java-practices-mirea.git" />
       </UrlAndAccount>
     </option>
@@ -75,7 +72,7 @@
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PhoneNumber">
+  <component name="RunManager" selected="Application.MenuChoosing">
     <configuration name="CheckString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_14.Task_2.CheckString" />
       <module name="Java" />
@@ -95,6 +92,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice_14.Task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuChoosing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_15.Task_2.MenuChoosing" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_15.Task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,26 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shirt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_13.Task_4.Shirt" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice_13.Task_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MenuChoosing" />
         <item itemvalue="Application.PhoneNumber" />
         <item itemvalue="Application.CountsConverter" />
         <item itemvalue="Application.PlusChecking" />
         <item itemvalue="Application.CheckString" />
-        <item itemvalue="Application.Shirt" />
       </list>
     </recent_temporary>
   </component>
@@ -172,14 +169,6 @@
       <workItem from="1695558331759" duration="11648000" />
       <workItem from="1695621992876" duration="2478000" />
       <workItem from="1696417162272" duration="8000" />
-    </task>
-    <task id="LOCAL-00014" summary="add: task_4 finished">
-      <option name="closed" value="true" />
-      <created>1694602365884</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1694602365884</updated>
     </task>
     <task id="LOCAL-00015" summary="add: task_10 finished">
       <option name="closed" value="true" />
@@ -565,7 +554,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696966717329</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="add: updates">
+      <option name="closed" value="true" />
+      <created>1698570888310</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1698570888311</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -583,7 +580,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add: practice 3 started" />
     <MESSAGE value="add: practice 5 started" />
     <MESSAGE value="add: task_8 in practice 4.1 finished" />
     <MESSAGE value="add: practice 6 started" />
@@ -608,6 +604,7 @@
     <MESSAGE value="add: task_5 finished" />
     <MESSAGE value="add: task_6 finished" />
     <MESSAGE value="add: practice 15 started" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: practice 15 started" />
+    <MESSAGE value="add: updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: updates" />
   </component>
 </project>
