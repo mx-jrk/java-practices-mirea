@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_3 finished">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_4 finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,7 +75,7 @@
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Calc (2)">
+  <component name="RunManager" selected="Application.GuessNumberGame">
     <configuration name="Calc (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_15.Task_4.Calc" />
       <module name="Java" />
@@ -112,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuExample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_15.Task_3.MenuExample" />
+    <configuration name="GuessNumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_16.Task_1.GuessNumberGame" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_15.Task_3.*" />
+          <option name="PATTERN" value="Practice_16.Task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GuessNumberGame" />
         <item itemvalue="Application.Calc (2)" />
         <item itemvalue="Application.Calc (1)" />
         <item itemvalue="Application.Calc" />
         <item itemvalue="Application.MenuExample" />
-        <item itemvalue="Application.MenuExample (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -169,14 +172,6 @@
       <workItem from="1695558331759" duration="11648000" />
       <workItem from="1695621992876" duration="2478000" />
       <workItem from="1696417162272" duration="8000" />
-    </task>
-    <task id="LOCAL-00017" summary="add: task_1 finished">
-      <option name="closed" value="true" />
-      <created>1694964772598</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1694964772598</updated>
     </task>
     <task id="LOCAL-00018" summary="add: task_2 finished">
       <option name="closed" value="true" />
@@ -562,7 +557,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699190194129</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="add: task_4 finished">
+      <option name="closed" value="true" />
+      <created>1699191679424</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1699191679425</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,7 +600,6 @@
     <MESSAGE value="add: practice 13 started" />
     <MESSAGE value="add: task_1 finished" />
     <MESSAGE value="add: practice 14 started" />
-    <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="fix: package" />
     <MESSAGE value="add: task_5 finished" />
     <MESSAGE value="add: task_6 finished" />
@@ -605,6 +607,7 @@
     <MESSAGE value="add: updates" />
     <MESSAGE value="add: task_2 finished" />
     <MESSAGE value="add: task_3 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_3 finished" />
+    <MESSAGE value="add: task_4 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_4 finished" />
   </component>
 </project>
