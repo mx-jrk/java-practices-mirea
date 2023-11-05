@@ -75,7 +75,7 @@
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GuessNumberGame">
+  <component name="RunManager" selected="Application.TextEditor">
     <configuration name="Calc (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_15.Task_4.Calc" />
       <module name="Java" />
@@ -128,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_15.Task_3.MenuExample" />
+    <configuration name="TextEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_16.Task_2.TextEditor" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_15.Task_3.*" />
+          <option name="PATTERN" value="Practice_16.Task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextEditor" />
         <item itemvalue="Application.GuessNumberGame" />
         <item itemvalue="Application.Calc (2)" />
         <item itemvalue="Application.Calc (1)" />
         <item itemvalue="Application.Calc" />
-        <item itemvalue="Application.MenuExample" />
       </list>
     </recent_temporary>
   </component>
