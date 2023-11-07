@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: practice 18 started" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_3 finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,13 +77,13 @@
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exception1">
-    <configuration name="Calc (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_15.Task_4.Calc" />
+  <component name="RunManager" selected="Application.Exception4">
+    <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_18.Task_1.Exception1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_15.Task_4.*" />
+          <option name="PATTERN" value="Practice_18.Task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_18.Task_1.Exception1" />
+    <configuration name="Exception4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_18.Task_4.Exception4" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_18.Task_1.*" />
+          <option name="PATTERN" value="Practice_18.Task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exception4" />
         <item itemvalue="Application.Exception1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TextEditor" />
         <item itemvalue="Application.GuessNumberGame" />
-        <item itemvalue="Application.Calc (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -172,30 +174,6 @@
       <workItem from="1695558331759" duration="11648000" />
       <workItem from="1695621992876" duration="2478000" />
       <workItem from="1696417162272" duration="8000" />
-    </task>
-    <task id="LOCAL-00024" summary="add: task_6 - task_9 finished">
-      <option name="closed" value="true" />
-      <created>1695560068684</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1695560068684</updated>
-    </task>
-    <task id="LOCAL-00025" summary="add: task_10 finished">
-      <option name="closed" value="true" />
-      <created>1695562130335</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1695562130335</updated>
-    </task>
-    <task id="LOCAL-00026" summary="add: task_11 finished">
-      <option name="closed" value="true" />
-      <created>1695562689200</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1695562689200</updated>
     </task>
     <task id="LOCAL-00027" summary="fix: package name of practice 6">
       <option name="closed" value="true" />
@@ -565,7 +543,31 @@
       <option name="project" value="LOCAL" />
       <updated>1699384044380</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="add: task_1 finished">
+      <option name="closed" value="true" />
+      <created>1699384407121</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1699384407121</updated>
+    </task>
+    <task id="LOCAL-00074" summary="add: task_2 finished">
+      <option name="closed" value="true" />
+      <created>1699384413272</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1699384413273</updated>
+    </task>
+    <task id="LOCAL-00075" summary="add: task_3 finished">
+      <option name="closed" value="true" />
+      <created>1699384517413</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1699384517413</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,13 +603,13 @@
     <MESSAGE value="add: task_6 finished" />
     <MESSAGE value="add: practice 15 started" />
     <MESSAGE value="add: updates" />
-    <MESSAGE value="add: task_3 finished" />
     <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="add: practice 16 started" />
-    <MESSAGE value="add: task_1 finished" />
     <MESSAGE value="add: practice 17 started" />
-    <MESSAGE value="add: task_2 finished" />
     <MESSAGE value="add: practice 18 started" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: practice 18 started" />
+    <MESSAGE value="add: task_1 finished" />
+    <MESSAGE value="add: task_2 finished" />
+    <MESSAGE value="add: task_3 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_3 finished" />
   </component>
 </project>
