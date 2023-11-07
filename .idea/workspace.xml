@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_5 finished" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_8 finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,30 +172,6 @@
       <workItem from="1695558331759" duration="11648000" />
       <workItem from="1695621992876" duration="2478000" />
       <workItem from="1696417162272" duration="8000" />
-    </task>
-    <task id="LOCAL-00028" summary="add: practice 7 started">
-      <option name="closed" value="true" />
-      <created>1695565461052</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1695565461052</updated>
-    </task>
-    <task id="LOCAL-00029" summary="add: task_3 finished">
-      <option name="closed" value="true" />
-      <created>1695565479966</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1695565479966</updated>
-    </task>
-    <task id="LOCAL-00030" summary="add: task_4 finished">
-      <option name="closed" value="true" />
-      <created>1695565485936</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1695565485936</updated>
     </task>
     <task id="LOCAL-00031" summary="add: task_5 finished">
       <option name="closed" value="true" />
@@ -565,7 +541,31 @@
       <option name="project" value="LOCAL" />
       <updated>1699391529386</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="add: task_6 finished">
+      <option name="closed" value="true" />
+      <created>1699391621699</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1699391621699</updated>
+    </task>
+    <task id="LOCAL-00078" summary="add: task_7 finished">
+      <option name="closed" value="true" />
+      <created>1699391729373</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1699391729373</updated>
+    </task>
+    <task id="LOCAL-00079" summary="add: task_8 finished">
+      <option name="closed" value="true" />
+      <created>1699391775495</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1699391775495</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -583,8 +583,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add: task_6 - task_9 finished" />
-    <MESSAGE value="fix: package name of practice 6" />
     <MESSAGE value="add: practice 7 started" />
     <MESSAGE value="add: practice 8 started" />
     <MESSAGE value="add: task_10 finished" />
@@ -597,7 +595,6 @@
     <MESSAGE value="add: practice 13 started" />
     <MESSAGE value="add: practice 14 started" />
     <MESSAGE value="fix: package" />
-    <MESSAGE value="add: task_6 finished" />
     <MESSAGE value="add: practice 15 started" />
     <MESSAGE value="add: updates" />
     <MESSAGE value="add: task_4 finished" />
@@ -608,6 +605,9 @@
     <MESSAGE value="add: task_2 finished" />
     <MESSAGE value="add: task_3 finished" />
     <MESSAGE value="add: task_5 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_5 finished" />
+    <MESSAGE value="add: task_6 finished" />
+    <MESSAGE value="add: task_7 finished" />
+    <MESSAGE value="add: task_8 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_8 finished" />
   </component>
 </project>
