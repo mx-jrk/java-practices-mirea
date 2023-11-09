@@ -101,7 +101,7 @@ public class SortingStudentsByGPA {
 
         // Поиск студента по ФИ
         try {
-            Student foundStudent = sortingStudents.findStudentByFullName("123 Stuliev");
+            Student foundStudent = sortingStudents.findStudentByFullName("123 ");
             System.out.println("Found student:");
             System.out.println("Name: " + foundStudent.getName());
             System.out.println("Surname: " + foundStudent.getSurname());
