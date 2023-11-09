@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_4 finished">
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_1 to task_4 finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,13 +77,13 @@
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DynamicArray">
-    <configuration name="DynamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_21.Task_1to4.DynamicArray" />
+  <component name="RunManager" selected="Application.Calc (5)">
+    <configuration name="Calc (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_22.Task_1to2.Calc" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_21.Task_1to4.*" />
+          <option name="PATTERN" value="Practice_22.Task_1to2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_20.Task_4.GenericCalc" />
+    <configuration name="Calc (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_22.Task_1to2.Calc" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_20.Task_4.*" />
+          <option name="PATTERN" value="Practice_22.Task_1to2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_20.Task_1to3.GenericExample" />
+    <configuration name="Calc (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_22.Task_1to2.Calc" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_20.Task_4.*" />
+          <option name="PATTERN" value="Practice_22.Task_1to2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_20.Task_4.MinMaxGeneric" />
+    <configuration name="Calc (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_22.Task_1to2.Calc" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_20.Task_4.*" />
+          <option name="PATTERN" value="Practice_22.Task_1to2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingStudentsByGPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_19.Task_2.SortingStudentsByGPA" />
+    <configuration name="Calc (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_22.Task_1to2.Calc" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_19.Task_2.*" />
+          <option name="PATTERN" value="Practice_22.Task_1to2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DynamicArray" />
-        <item itemvalue="Application.MinMaxGeneric" />
-        <item itemvalue="Application.GenericCalc" />
-        <item itemvalue="Application.GenericExample" />
-        <item itemvalue="Application.SortingStudentsByGPA" />
+        <item itemvalue="Application.Calc (5)" />
+        <item itemvalue="Application.Calc (4)" />
+        <item itemvalue="Application.Calc (3)" />
+        <item itemvalue="Application.Calc (2)" />
+        <item itemvalue="Application.Calc (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -174,22 +174,6 @@
       <workItem from="1695558331759" duration="11648000" />
       <workItem from="1695621992876" duration="2478000" />
       <workItem from="1696417162272" duration="8000" />
-    </task>
-    <task id="LOCAL-00035" summary="add: task_12 finished">
-      <option name="closed" value="true" />
-      <created>1695567730720</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1695567730720</updated>
-    </task>
-    <task id="LOCAL-00036" summary="add: practice 9 started">
-      <option name="closed" value="true" />
-      <created>1695575813362</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1695575813362</updated>
     </task>
     <task id="LOCAL-00037" summary="add: task_1 finished">
       <option name="closed" value="true" />
@@ -567,7 +551,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699545262221</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="add: practice 21 started">
+      <option name="closed" value="true" />
+      <created>1699547020975</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1699547020975</updated>
+    </task>
+    <task id="LOCAL-00085" summary="add: task_1 to task_4 finished">
+      <option name="closed" value="true" />
+      <created>1699547030039</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1699547030039</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,8 +585,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add: task_10 finished" />
-    <MESSAGE value="add: task_11 finished" />
     <MESSAGE value="add: task_12 finished" />
     <MESSAGE value="add: practice 9 started" />
     <MESSAGE value="add: task_1 - task_4 finished" />
@@ -610,6 +608,28 @@
     <MESSAGE value="add: practice 20 started" />
     <MESSAGE value="add: task_1 to task_3 finished" />
     <MESSAGE value="add: task_4 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_4 finished" />
+    <MESSAGE value="add: practice 21 started" />
+    <MESSAGE value="add: task_1 to task_4 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_1 to task_4 finished" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.EmptyStackException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice_22/Task_1to2/CalcModel.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice_22/Task_1to2/CalcModel.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
