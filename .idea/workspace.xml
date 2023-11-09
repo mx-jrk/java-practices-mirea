@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_2 finished">
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_1 to task_3 finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,13 +77,13 @@
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericExample">
-    <configuration name="GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_20.Task_1to3.GenericExample" />
+  <component name="RunManager" selected="Application.MinMaxGeneric">
+    <configuration name="GenericCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_20.Task_4.GenericCalc" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_20.Task_1to3.*" />
+          <option name="PATTERN" value="Practice_20.Task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuessNumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_16.Task_1.GuessNumberGame" />
+    <configuration name="GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_20.Task_1to3.GenericExample" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_16.Task_1.*" />
+          <option name="PATTERN" value="Practice_20.Task_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinMaxGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_20.Task_4.MinMaxGeneric" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_20.Task_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,19 +123,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Practice_19.Task_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TextEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_16.Task_2.TextEditor" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice_16.Task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinMaxGeneric" />
+        <item itemvalue="Application.GenericCalc" />
         <item itemvalue="Application.GenericExample" />
         <item itemvalue="Application.SortingStudentsByGPA" />
         <item itemvalue="Application.ThrowsDemo" />
-        <item itemvalue="Application.TextEditor" />
-        <item itemvalue="Application.GuessNumberGame" />
       </list>
     </recent_temporary>
   </component>
@@ -174,22 +174,6 @@
       <workItem from="1695558331759" duration="11648000" />
       <workItem from="1695621992876" duration="2478000" />
       <workItem from="1696417162272" duration="8000" />
-    </task>
-    <task id="LOCAL-00032" summary="add: practice 8 started">
-      <option name="closed" value="true" />
-      <created>1695565601992</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1695565601992</updated>
-    </task>
-    <task id="LOCAL-00033" summary="add: task_10 finished">
-      <option name="closed" value="true" />
-      <created>1695565996091</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1695565996091</updated>
     </task>
     <task id="LOCAL-00034" summary="add: task_11 finished">
       <option name="closed" value="true" />
@@ -567,7 +551,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699540617736</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="add: practice 20 started">
+      <option name="closed" value="true" />
+      <created>1699543047151</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1699543047151</updated>
+    </task>
+    <task id="LOCAL-00082" summary="add: task_1 to task_3 finished">
+      <option name="closed" value="true" />
+      <created>1699543061427</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1699543061427</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,8 +585,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add: practice 7 started" />
-    <MESSAGE value="add: practice 8 started" />
     <MESSAGE value="add: task_10 finished" />
     <MESSAGE value="add: task_11 finished" />
     <MESSAGE value="add: task_12 finished" />
@@ -610,6 +608,8 @@
     <MESSAGE value="add: task_7 finished" />
     <MESSAGE value="add: task_8 finished" />
     <MESSAGE value="add: task_2 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_2 finished" />
+    <MESSAGE value="add: practice 20 started" />
+    <MESSAGE value="add: task_1 to task_3 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_1 to task_3 finished" />
   </component>
 </project>
