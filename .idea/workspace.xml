@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_8 finished">
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_2 finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice_19/Task_2/SortingStudentsByGPA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice_19/Task_2/SortingStudentsByGPA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,21 +53,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_6" />
@@ -78,13 +77,13 @@
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortingStudentsByGPA">
-    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_15.Task_4.Calc" />
+  <component name="RunManager" selected="Application.GenericExample">
+    <configuration name="GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_20.Task_1to3.GenericExample" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice_15.Task_4.*" />
+          <option name="PATTERN" value="Practice_20.Task_1to3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericExample" />
         <item itemvalue="Application.SortingStudentsByGPA" />
         <item itemvalue="Application.ThrowsDemo" />
         <item itemvalue="Application.TextEditor" />
         <item itemvalue="Application.GuessNumberGame" />
-        <item itemvalue="Application.Calc" />
       </list>
     </recent_temporary>
   </component>
@@ -175,14 +174,6 @@
       <workItem from="1695558331759" duration="11648000" />
       <workItem from="1695621992876" duration="2478000" />
       <workItem from="1696417162272" duration="8000" />
-    </task>
-    <task id="LOCAL-00031" summary="add: task_5 finished">
-      <option name="closed" value="true" />
-      <created>1695565497684</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1695565497684</updated>
     </task>
     <task id="LOCAL-00032" summary="add: practice 8 started">
       <option name="closed" value="true" />
@@ -568,7 +559,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699391775495</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="add: task_2 finished">
+      <option name="closed" value="true" />
+      <created>1699540617736</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1699540617736</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,12 +604,12 @@
     <MESSAGE value="add: practice 17 started" />
     <MESSAGE value="add: practice 18 started" />
     <MESSAGE value="add: task_1 finished" />
-    <MESSAGE value="add: task_2 finished" />
     <MESSAGE value="add: task_3 finished" />
     <MESSAGE value="add: task_5 finished" />
     <MESSAGE value="add: task_6 finished" />
     <MESSAGE value="add: task_7 finished" />
     <MESSAGE value="add: task_8 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_8 finished" />
+    <MESSAGE value="add: task_2 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_2 finished" />
   </component>
 </project>
