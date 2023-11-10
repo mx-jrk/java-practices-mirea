@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_1 to task_4 finished" />
+    <list default="true" id="444a39a9-d058-4ac2-a979-99d70f4e18c4" name="Changes" comment="add: task_1 to task_2 finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/MIREA/Java/Java/src/Practice_23",
+    "last_opened_file_path": "D:/MIREA/Java/Java/src/Practice_24/Task_3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,28 +70,18 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MIREA\Java\Java\src\Practice_23" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MIREA\Java\Java\src\Practice_23\Task_1to2" />
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_6" />
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_5" />
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_4" />
       <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_3" />
-      <recent name="D:\MIREA\Java\Java\src\Practice_14\Task_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.calc">
-    <configuration name="Calc (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice_22.Task_1to2.Calc" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice_22.Task_1to2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Calc (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_22.Task_1to2.Calc" />
       <module name="Java" />
@@ -129,6 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_24.Task_3.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_24.Task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_23.calc" />
       <module name="Java" />
@@ -144,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.calc" />
         <item itemvalue="Application.Calc (5)" />
         <item itemvalue="Application.Calc (4)" />
         <item itemvalue="Application.Calc (3)" />
-        <item itemvalue="Application.Calc (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -173,22 +178,6 @@
       <workItem from="1695558331759" duration="11648000" />
       <workItem from="1695621992876" duration="2478000" />
       <workItem from="1696417162272" duration="8000" />
-    </task>
-    <task id="LOCAL-00037" summary="add: task_1 finished">
-      <option name="closed" value="true" />
-      <created>1695575821041</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1695575821041</updated>
-    </task>
-    <task id="LOCAL-00038" summary="add: task_2 finished">
-      <option name="closed" value="true" />
-      <created>1695576062269</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1695576062269</updated>
     </task>
     <task id="LOCAL-00039" summary="add: task_3 finished">
       <option name="closed" value="true" />
@@ -566,7 +555,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699547030039</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="add: practice 23 started">
+      <option name="closed" value="true" />
+      <created>1699594515596</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1699594515596</updated>
+    </task>
+    <task id="LOCAL-00087" summary="add: task_1 to task_2 finished">
+      <option name="closed" value="true" />
+      <created>1699594523444</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1699594523444</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -584,8 +589,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add: task_12 finished" />
-    <MESSAGE value="add: practice 9 started" />
     <MESSAGE value="add: task_1 - task_4 finished" />
     <MESSAGE value="add: practice 11 started" />
     <MESSAGE value="add: practice 12 started" />
@@ -609,7 +612,9 @@
     <MESSAGE value="add: task_4 finished" />
     <MESSAGE value="add: practice 21 started" />
     <MESSAGE value="add: task_1 to task_4 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: task_1 to task_4 finished" />
+    <MESSAGE value="add: practice 23 started" />
+    <MESSAGE value="add: task_1 to task_2 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: task_1 to task_2 finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
